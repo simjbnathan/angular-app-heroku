@@ -1,0 +1,9 @@
+.multiline-dot {
+    white-space: nowrap;
+ overflow: hidden;
+ text-overflow: ellipsis;
+}
+
+thead {
+    color: #337AB7;
+  }
